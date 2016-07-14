@@ -1,6 +1,6 @@
-###console.frog
+###console.meow
 
-`console.frog` is an easy way to spice up your development life. Its really that simple! Runs on vanilla javascript, in most modern browsers (the kind that has developer tools!). You can see it live [here](http://tholman.com/console-dot-frog).
+`console.meow` is an easy way to spice up your development life. Its really that simple! Runs on vanilla javascript, in most modern browsers (the kind that has developer tools!).
 
 ### Preview
 
@@ -26,17 +26,18 @@ console.frog("Amazing!");
 
 ```
 // And here is your output.
-          _,-.     ------------
-  ,-. ,--'  o ) -(   Amazing!   )
-  \(,' '  ,,-'     ------------
- ,-.\-.__,\\_
- \(`--'    `\ 
+               /\_____/\    -----------------------
+              (  o   o  )-(   Amazing   )
+              (   =^=   )   -----------------------
+             (          )
+            (           )
+((((((((((((            )
 ```
 
 Wow. That feels good!
 
 ###Usage
-Simply include the `console.frog.js` file into your app!
+Simply include the `console.meow.js` file into your app!
 
 ###License
 Copyright (c) 2016 Tim Holman - http://tholman.com
