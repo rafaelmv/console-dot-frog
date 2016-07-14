@@ -1,22 +1,23 @@
 {
-"name": "console-dot-frog",
+"name": "console-dot-meow",
 "version": "1.0.1",
-"description": "Log with a frog, its as simple as that!",
-"main": "console.frog.js",
+"description": "Log with a cat, its as simple as that!",
+"main": "console.meow.js",
 "repository": {
 "type": "git",
-"url": "git+https://github.com/tholman/console-dot-frog.git"
+"url": "git+https://github.com/rafaelmv/console-dot-meow.git"
 },
 "keywords": [
 "web",
-"frogging",
+"cating",
 "logging",
 "console"
 ],
 "author": "Tim Holman <timothy.w.holman@gmail.com>",
+"forked": "Rafael Miranda <lets.email.rafa@gmail.com>",
 "license": "MIT",
 "bugs": {
-"url": "https://github.com/tholman/console-dot-frog/issues"
+"url": "https://github.com/rafaelmv/console-dot-meow/issues"
 },
-"homepage": "https://github.com/tholman/console-dot-frog#readme"
+"homepage": "https://github.com/rafaelmv/console-dot-meow#readme"
 }
