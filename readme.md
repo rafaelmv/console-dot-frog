@@ -21,7 +21,7 @@ Wow, what a drag that was! No wonder you've become disenchanted with web develop
 
 ```javascript
 // Here is happy you, logging some logs
-console.frog("Amazing!");
+console.meow("Amazing!");
 ```
 
 ```
